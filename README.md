@@ -1,2 +1,2 @@
-# git-java-basico
-Repositório de estudos de Git e Java Básico.
+# Git/Github-Java-Básico
+Repositório de estudos de Git, GitHub e Java Básico.

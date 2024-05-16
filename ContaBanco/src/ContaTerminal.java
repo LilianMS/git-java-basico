@@ -10,9 +10,8 @@ public class ContaTerminal {
         double saldo;
 
         scanner = new Scanner(System.in).useLocale(Locale.US);
-
         System.out.println("Olá! Por favor, digite seu nome: ");
-        nomeCliente = scanner.next();
+        nomeCliente = scanner.nextLine();
         System.out.println("Sr(a). " + nomeCliente + ", Qual o número de sua agência?");
         agencia = scanner.next();
         System.out.println("Agora, informe o número de sua conta: ");
